@@ -35,7 +35,7 @@ You only need **Python 3** installed on your system.
 3.  **Run the Script:** Execute the file using the Python interpreter:
 
     ```bash
-    python eight_ball.py
+    python magic.py
     ```
 
 ### 3. Gameplay
