@@ -30,7 +30,7 @@ You only need **Python 3** installed on your system.
 
 ### 2. Setup and Execution
 
-1.  **Save the Code:** Save the Python code into a file named `eight_ball.py`.
+1.  **Save the Code:** Save the Python code into a file named `magic.py`.
 2.  **Open Terminal:** Open your command prompt or terminal application.
 3.  **Run the Script:** Execute the file using the Python interpreter:
 
